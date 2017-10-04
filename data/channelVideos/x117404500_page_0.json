@@ -1,0 +1,49 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "117404482",
+            "title": "\ubc24\uc5d0 \ubd80\ub974\ub294 \ub178\ub798",
+            "date_created": "1445298105",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "\ubc24\uc5d0 \ubd80\ub974\ub294 \ub178\ub798\n\n\uc2ec\ucc3d\uc12d \ubaa9\uc0ac",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ob6mKFJC3lQ\/maxresdefault.jpg",
+                "uploadDate": 1445298105,
+                "videoId": "ob6mKFJC3lQ",
+                "title": "\ubc24\uc5d0 \ubd80\ub974\ub294 \ub178\ub798",
+                "description": "\ubc24\uc5d0 \ubd80\ub974\ub294 \ub178\ub798\n\n\uc2ec\ucc3d\uc12d \ubaa9\uc0ac",
+                "author": "SDCKC",
+                "mediaDuration": 2245,
+                "prettyDuration": "00:37:25",
+                "views": "318"
+            },
+            "parentId": "117404500",
+            "url": "\/testeeee\/\ubc24\uc5d0-\ubd80\ub974\ub294-\ub178\ub798\/117404500-117404482"
+        },
+        {
+            "id": "117404483",
+            "title": "\ub9d0\uc500\uc73c\ub85c \ub204\ub9ac\ub294 \ucc9c\uad6d\uc758 \ud589\ubcf5",
+            "date_created": "1445294564",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "\ub9d0\uc500\uc73c\ub85c \ub204\ub9ac\ub294 \ucc9c\uad6d\uc758 \ud589\ubcf5",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Qa5k6DMbhBw\/maxresdefault.jpg",
+                "uploadDate": 1445294564,
+                "videoId": "Qa5k6DMbhBw",
+                "title": "\ub9d0\uc500\uc73c\ub85c \ub204\ub9ac\ub294 \ucc9c\uad6d\uc758 \ud589\ubcf5",
+                "description": "\ub9d0\uc500\uc73c\ub85c \ub204\ub9ac\ub294 \ucc9c\uad6d\uc758 \ud589\ubcf5",
+                "author": "SDCKC",
+                "mediaDuration": 2498,
+                "prettyDuration": "00:41:38",
+                "views": "229"
+            },
+            "parentId": "117404500",
+            "url": "\/testeeee\/\ub9d0\uc500\uc73c\ub85c-\ub204\ub9ac\ub294-\ucc9c\uad6d\uc758-\ud589\ubcf5\/117404500-117404483"
+        }
+    ]
+}
