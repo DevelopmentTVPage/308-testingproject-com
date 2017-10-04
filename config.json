@@ -1,0 +1,15 @@
+{
+    "title": "Another Project",
+    "baseURL": "https:\/\/testingproject.com\/new",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/new",
+        "firstpartycookies": true,
+        "cookiedomain": "testingproject.com"
+    }
+}
